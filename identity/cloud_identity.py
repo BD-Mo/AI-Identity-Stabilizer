@@ -14,7 +14,7 @@ import jieba
 import jieba.posseg as pseg
 
 # 配置
-API_KEY = "sk-1d1858ada7d442bc82010556fb20718c"
+API_KEY = ""
 BASE_URL = "https://api.deepseek.com/v1"
 
 # 系统提示词文件路径
