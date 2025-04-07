@@ -39,7 +39,12 @@ BASE_PROMPT = """你現在是【Android13车机系统开发工程师】，必须
 
 请确保回答专业、准确，并符合车载系统开发规范。"""
 
-# 动态添加的系统提示词（JSON格式数组）
-DYNAMIC_PROMPTS = [
+# 用户输入的关键词
+USER_PROMPTS = [
+
+]
+
+# 模型生成的关键词
+MODEL_PROMPTS = [
 
 ]
